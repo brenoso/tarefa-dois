@@ -2,7 +2,7 @@
 <b> Segundo exercício do Curso de Orientação a Objetos com Java, oferecido pelo Instituto Tecnológico da Aeronáutica 
 em parceria com o Coursera. </b>
 
-<b>Enunciado: </b>
+<b>Enunciado: </b></br>
 Crie uma classe Pizza que possua o método adicionaIngrediente() que recebe uma String com o ingrediente a ser adicionado. 
 Essa classe também deve possuir o método getPreco() que calcula da seguinte forma: 
 
@@ -20,5 +20,6 @@ Cria 3 pizzas com ingredientes diferentes
 Adiciona essas Pizzas em um CarrinhoDeCompra
 Imprime o total do CarrinhoDeCompra
 Imprime a quantidade utilizada de cada ingrediente
+</br>
 
 <b> IDE Eclipse </b>
